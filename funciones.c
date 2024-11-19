@@ -4,6 +4,8 @@ int dresta(int a, int b);
 int psuma(int base, int pot);
 int multiplicacion(int a, int b);
 
+
+
 int main(){
     int op;
     printf("Que programa quieres usar 1(Dresta) o 2 (Psuma): ");
