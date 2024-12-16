@@ -2,7 +2,7 @@
 
 ## Ejercicio 1: Montar y Desmontar Discos
 
-Se inserto una memoria USB en mi máquina virtual y abro la terminal. Escribo:
+ Se inserto una memoria USB en mi máquina virtual y abro la terminal. Escribo:
 
 ```bash
 lsblk
